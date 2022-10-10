@@ -1,1 +1,1 @@
-vagrant 1
+Hello Ubuntu
